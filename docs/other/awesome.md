@@ -28,6 +28,7 @@ This is a collection of (alphabetically ordered) sites made with Statamic using 
 * [janeandherdragon.com](https://janeandherdragon.com) by [Josh Tristram](https://joshtristram.com)
 * [joshtristram.com](https://joshtristram.com) by [Josh Tristram](https://joshtristram.com)
 * [klimaatadaptatiegroningen.nl](https://klimaatadaptatiegroningen.nl) by [Studio 1902](https://studio1902.nl) & [Merkactivisten](https://merkactivisten.nl)
+* [lou.pe](https://lou.pe) by [Creative Loupe](https://lou.pe)
 * [lutjegeluk.nl](https://lutjegeluk.nl) by [Studio 1902](https://1902.studio)
 * [merkactivisten.nl](https://merkactivisten.nl) by [Studio 1902](https://studio1902.nl) & [Merkactivisten](https://merkactivisten.nl)
 * [mam.org.mm](https://mam.org.mm) by [Studio 1902](https://studio1902.nl)
